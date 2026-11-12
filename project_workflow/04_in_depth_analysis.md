@@ -25,11 +25,12 @@ The key metric is Sale_Amount, whilst the metrics used for evaluation include Im
 
 The main reason for the 7,673.03% increase in advertising revenue in November was a significant rise in both the frequency and the number of adverts uploaded.
 
-![freq_ads]()
-Fig. 1 Frequency of ads uploaded graphic
+![freq_ads](https://github.com/CHodes-dev/GoogleAds-Performance-Analysis/blob/main/images/freq_ads.png)
+_Fig. 1 Frequency of ads uploaded graphic_
 
-![qty_ads]()
-Fig. 2 Quantity of ads uploaded graphic
+
+![qty_ads](https://github.com/CHodes-dev/GoogleAds-Performance-Analysis/blob/main/images/qty_ads.png)
+_Fig. 2 Quantity of ads uploaded graphic_
 
 - Based on the frequency of ad uploads by the relevant division, in other months they typically upload several adverts at once in a single day, except in November, look at Fig. 1. The number of adverts uploaded in November accounted for as much as 88.92%, as adverts were uploaded every day throughout that month. 
 - Furthermore, a difference is also evident in the number of adverts uploaded per day. See Fig. 2, by way of comparison, the number of adverts uploaded in months other than November ranged from 19 to 32. Meanwhile, in November alone, the number of adverts uploaded ranged from 42 to 119. 
@@ -47,8 +48,8 @@ In July, when advertising revenue was at its lowest, the relevant division uploa
 Based on the three events that took place in July, November and December, the most significant factors were the number of advertisements, upload frequency, costs and revenue. These four indicators are interrelated. Within a single month, if the frequency of advertisement uploads increases, the number of advertisements uploaded also increases. An increase in the number of advertisements uploaded means higher costs will be incurred. <br>
 Based on the Pearson correlation calculation carried out between monthly expenditure and revenue, a value of 0.999 was obtained. This result indicates a strong relationship between the two. This means that the higher the advertising expenditure in a given month, the higher the revenue generated.
 
-![rev_cost]()
-Fig. 3 Relationship between cost and revenue by month
+![rev_cost](https://github.com/CHodes-dev/GoogleAds-Performance-Analysis/blob/main/images/rev_cost.png)
+_Fig. 3 Relationship between cost and revenue by month_
 
 This is illustrated by the graph in Fig. 3. The further to the right the point moves indicating higher income, the higher it rises on the graph; conversely, the higher the income, the higher the costs incurred.
 
