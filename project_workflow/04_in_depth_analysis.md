@@ -178,3 +178,15 @@ Compared to other keywords, this keyword’s performance is the most stable, as 
 
 ### Recommendation
 
+Based on the analysis carried out, the Media Planning division can take the following actions.
+
+1. **Scheduling ad uploads** for more than one day per month, whilst also increasing the volume, has proven to boost revenue, as was the case in November, when the number of adverts was increased by 98.7% so revenue also rose sharply.
+   
+2. To recommend **improving the quality of the ad** content displayed to increase the number of clicks. This is because adverts displayed on **desktop** computers—which are the main contributor to revenue (accounting for 34.64% of total revenue) are generating a low number of clicks from users.
+
+3. To recommend **improvements to website performance** and the **course registration process** for users. Adverts clicked on via mobile (contributing 33.51% of total revenue) have great potential to generate a significant increase in revenue, but their conversion rate remains low. The same applies to adverts appearing in response to the keywords ‘data analytics course’ (generated the second-highest revenue) and ‘data analytics training’ (generated the fifth-highest revenue) although these are highly cost-efficient, there are still too few people who ultimately end up registering for the course.<br>
+The use of the keyword ‘online data analytics’ (generated the third-highest revenue) should also be noted, although it is not a priority for improvement, as it has successfully attracted a great deal of attention but still has a low conversion rate.
+
+4. **Increase advertising spend**. Adverts triggered by the keyword ‘data analytics training’ (generated the fifth-highest revenue) are the most efficient in terms of spend and conversion rate compared to other keywords; therefore, increasing the budget for this type of advert has the potential to boost revenue.
+
+5. **Evaluate advertising spend**. Ads displayed on tablets (contributing 32.21% of total revenue) have the highest user acquisition cost ($32.84) compared to users of other devices, whilst also having the lowest conversion rate. Similarly, the use of the keyword ‘analytics for data’ (which generated the fourth-highest revenue) has the highest user acquisition cost at $33.07, yet its conversion rate is relatively low.
