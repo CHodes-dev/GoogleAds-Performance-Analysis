@@ -136,7 +136,7 @@ Although it does not rank amongst the top three in terms of revenue, this keywor
 
 **Device: Tablet**
 
-Ads accessed via tablets generate the least revenue, accounting for 32.21 per cent of total revenue.
+Ads accessed via tablets generate the least revenue, accounting for 32.21% of total revenue.
 - CTR: 3.04% (high)
 - CPC: $1.52 (cheapest)
 - Conversion Rate: 4.64% (lowest)
@@ -168,7 +168,7 @@ The keyword online data analytics generated the third-highest revenue, totalling
 
 Ads triggered by this keyword have successfully attracted a great deal of attention, as evidenced by the high CTR, which suggests that the ad content is popular with many people. The costs incurred are also not particularly high. However, the conversion rate remains relatively low. Not many people have gone on to sign up after clicking on the ads triggered by this keyword.
 
-The keyword online data analytics generated the lowest revenue amongst other keywords, at $579,245, with a relatively low conversion rate.
+The keyword data analytics online generated the lowest revenue amongst other keywords, at $579,245, with a relatively low conversion rate.
 - CTR: 3.03% (average)
 - CPC: $1.54 (average)
 - Conversion Rate: 4.70% (low)
