@@ -1,6 +1,6 @@
-# Understanding Data and Business Context
+# Understanding Data
 
-A building stands firm because it has a strong foundation. In business analysis, the findings and recommendations presented can be highly accurate and applicable thanks to a strong foundation, an understanding of the data and prevailing business conditions.
+"_A building stands firm because it has a strong foundation_". In business analysis, the findings and recommendations presented can be highly accurate and applicable thanks to a strong foundation, an understanding of the data and prevailing business conditions.
 
 Data represents every real-world interaction between users and the products offered by the company. By knowing and understanding this data, we can gain a big-picture view of what is happening in the business over that time period.
 
@@ -10,7 +10,7 @@ strategies  for the future.
 In this stage, data will be defined based on its role, and a representative business context will 
 also be established. 
 
-### Understanding the Data
+### A. Dataset Description
 
 The following is a description of the data obtained. 
 
@@ -44,22 +44,75 @@ Here is a full description of the data contained in the table and the data types
 | Device | String | The types of devices people use when clicking on adverts | |
 | Keyword | String | The keywords people use that trigger adverts to appear on their search results pages | |
 
-### Conceptualize the Data
+### B. Conceptualize the Data
 
-Providing business context within the data to ensure that analysis and the decision-making process are more focused.
+Data is obtained from a process that begins with the launch of an advertisement and ultimately ends with a successful transaction process carried out by the audience.
 
-**About the Company**: Tech-Education specialises in online training to help people become professionals in the tech and data sectors. Founded in 2019 as a solution for those wishing to learn but unable to attend face-to-face sessions due to the pandemic. A medium-sized company with 100 employees and 35 trainers. It has graduated over 3,000 people with specialist certifications in their respective fields.
+1. Visitor: a person who visits the website after clicking on an ad. 
+2. Conversion (Lead-Generation Conversion): when they register to create an account. 
+3. Lead: Counted as a lead because they have entered their account information and 
+contact details. 
+4. Conversion (Macro Conversion): Once we have their contact information, the Sales team 
+reaches out to them, and they eventually pay to enroll in the course. The act of enrolling 
+in the course is called a macro conversion. 
+5. Customer: Once registered, they are no longer referred to as a lead but as a customer. 
 
-**Record details**: The ‘Campaign Data Analytics Course’ was launched on 16 November 2024, specifically in the city of Hyderabad, with a total production cost of $231.88. Following its launch, the advert was displayed 4,498 times when people searched for the keyword ‘learn data analytics’. Of these impressions, the advert was clicked 104 times via desktop devices, directing users to the course provider’s website. From there, 14 people contacted the sales or admin team to enquire about the course programme. However, of those 14, only 7 ended up paying for and taking the course, resulting in a conversion rate of 0.058, or approximately 5.8% of those interested in the course programme who ultimately successfully enrolled. From this, the company generated revenue of $1,892.
+Remember, every process of acquiring a lead is called a conversion (it involves an effort to 
+get someone to take action), while not all conversions result in a lead (since the action might directly turn someone into a customer or simply involve watching a video or clicking “like”). 
+ 
+_Leads_ and _Conversions_ are not specified in detail. However, since “Sale_Amount” is 
+included, it can be assumed that conversions by leads involve transactions related to the 
+course services provided by the Company through its landing page. This could include 
+purchasing an e-book, a webinar, a mini-course, or a bootcamp.
 
-**Key metrics**: Cost, Impressions, Clicks, Leads, Conversions, Conversion Rate, Sales_Amount
+Meanwhile, the conversion that turns someone into a lead or indicates their interest in the 
+services offered, occurs when they register and save their contact information in the 
+account they create on the landing page.
 
-**Key dimension**: Campaign_Name, Ad_Date, Location, Device, Keyword
+**Narrative of a record**
 
-### Defining Scope
+After understanding the data details, to gain a deeper understanding of the data, we can 
+create a narrative for a record contained within that data. Based on the dataset, it would 
+look like this.
 
-**Analysis objective**: To produce a report analysing the marketing performance of one of the marketing channels, specifically Google Ads. The findings of this report will subsequently be used for marketing research to analyse customer behaviour and market trends; the results will then be utilised in media planning to assist the Media Planner division in determining which adverts should be continued and which audiences to target.
+**"** The Data Analytics Course campaign (Campaign_name) with ID A1000 (Ad_ID), which ran in 
+the city of Hyderabad (Location) at a cost of $231.88 (Cost), was displayed 4,498 times 
+(Impressions) when people entered the keyword “learn data analytics” (Keyword) into their 
+search engines. On November 16, 2024 (Ad_Date), the ad was clicked 104 times (Clicks) 
+via desktop (Desktop), directing users directly to the course provider’s website.
 
-**Target audience**: The Head and members of the Media Planning Division.
+Of those, 14 people (Leads) registered accounts and provided their contact information. 
+However, of those 14 people, only 7 transactions (Conversions) were completed, resulting in 
+a conversion rate of 0.058, or approximately 5.8% (Conversion_Rate). From this, the 
+company generated revenue of $1,892 (Sale_Amount).**"**
 
-**Analysis requirements**: To assess the marketing performance of the Data Analytics Course programme, which was run using Google Ads over a one-year period, from January to December 2024.
+### C. Data Categories
+
+From the narrative presented earlier, it’s clear that the current data is an end-to-end 
+combination covering both overall ad performance and the sales or revenue generated from 
+those ads. Consequently, the data can be divided into two categories:
+
+1. Ad Performance Data (Consideration)
+
+Data included in this category are Ad_ID, Campaign_Name, Clicks, Impressions, Cost, 
+Ad_Date, Location, Device, and Keyword. This data is used to measure ad performance 
+in attracting people to visit the website and to calculate the cost required to acquire 
+potential registrants.
+
+2. Sales Performance Data (Conversion)
+
+Data included in this category are Leads, Conversion, Conversion_Rate, and 
+Sale_Amount. This data is useful for assessing the effectiveness of ads in attracting 
+course registrants from the leads generated and the number who ultimately register to 
+the revenue generated.
+
+**Data Metrics and Dimensions**
+
+Metrics are quantitative data used to measure the performance of a condition represented 
+by the data. Meanwhile, dimensions are qualitative attributes used to group data to provide 
+context, making it easier to compare.
+
+Therefore, the data includes the metrics Clicks, Impressions, Cost, Leads, Conversions, 
+Conversion_Rate, and Sale_Amount.
+
+Meanwhile, the dimensions are Campaign_Name, Ad_Date, Location, Device, and Keyword.
