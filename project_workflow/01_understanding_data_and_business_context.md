@@ -57,7 +57,7 @@ reaches out to them, and they eventually pay to enroll in the course. The act of
 in the course is called a macro conversion. 
 5. Customer: Once registered, they are no longer referred to as a lead but as a customer. 
 
-Remember, every process of acquiring a lead is called a conversion (it involves an effort to 
+Every process of acquiring a lead is called a conversion (it involves an effort to 
 get someone to take action), while not all conversions result in a lead (since the action might directly turn someone into a customer or simply involve watching a video or clicking “like”). 
  
 _Leads_ and _Conversions_ are not specified in detail. However, since “Sale_Amount” is 
