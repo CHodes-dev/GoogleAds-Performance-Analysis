@@ -74,13 +74,13 @@ Null data that can be addressed is found in the following columns.
 
 These three columns are interrelated because they are linked by the formula used, 
 namely: <br>
-![conversion_rate]()
+![conversion_rate](https://github.com/CHodes-dev/GoogleAds-Performance-Analysis/blob/main/images/conv_rate_form.png)
 
 Therefore, to find one of the values, you can calculate the other two. To find the Conversions value, use the following formula. <br>
-![conversion]()
+![conversion](https://github.com/CHodes-dev/GoogleAds-Performance-Analysis/blob/main/images/conv_form.png)
 
 And to determine the value of Clicks, you can use the following formula. <br>
-![click]()
+![click](https://github.com/CHodes-dev/GoogleAds-Performance-Analysis/blob/main/images/click_form.png)
 
 Using this method, the number of null values in the Clicks column was reduced by 17%, in the Conversions column by 15%, and in the Conversions_Rate column by 76%.
 
