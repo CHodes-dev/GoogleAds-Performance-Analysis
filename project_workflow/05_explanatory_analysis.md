@@ -54,7 +54,7 @@ Fig. 2 Graph showing the frequency of ad impressions and clicks by month
 
 Upon further examination of the number of clicks in that month, a significant difference becomes apparent. Note the graph in Fig. 3: the number of clicks in November increased dramatically, with some days reaching over 15,000 clicks (November 14). 
  
-In comparison, other months only saw around 2,000 to 4,000 clicks per month. Meanwhile, even the lowest number of clicks—which occurred in November—reached approximately 6,000 clicks. That’s a very drastic difference. 
+In comparison, other months only saw around 2,000 to 4,000 clicks per month. Meanwhile, even the lowest number of clicks, which occurred in November reached approximately 6,000 clicks. That’s a very drastic difference. 
 
 ![quantity_of_ads_clicked](https://github.com/CHodes-dev/GoogleAds-Performance-Analysis/blob/main/images/quantity_clicked_by_month.png)
 Fig. 3 Table showing the number of ad clicks by month
