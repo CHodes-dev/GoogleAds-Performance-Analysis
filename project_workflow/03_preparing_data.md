@@ -123,6 +123,6 @@ and the results obtained can be more accurate.
 
 ---
 
-Here are the problems and their solutions as found in the data; or you can view them in the dataset file [here](https://github.com/CHodes-dev/GoogleAds-Performance-Analysis/blob/main/docs/googleads_performance_2024.xlsx).
+The problems and their solutions as found in the data can view in the dataset file [here](https://github.com/CHodes-dev/GoogleAds-Performance-Analysis/blob/main/docs/googleads_performance_2024.xlsx).
 
 
