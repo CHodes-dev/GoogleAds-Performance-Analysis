@@ -29,7 +29,7 @@ The desired outcome of this exploratory phase is to identify revenue trends gene
 ![cost_revenue_by_month](https://github.com/CHodes-dev/GoogleAds-Performance-Analysis/blob/main/images/month_perf.png)
 
 - Advertising costs in November were significantly higher than in previous months. Typically, they range from $4,000 to $6,000, but this month they surged 77-fold to $478,448. However, this increase in spending also boosted revenue by 78-fold. Average revenue in other months was only $37,283, while in November it surged to $3,278,058.
-- After seeing an increase in both expenses and revenue in November, both expenses and revenue dropped by 99% in December. Advertising costs for the month fell sharply, with a difference of $473,068 at. As a result, revenue totaled only $38,295—a decrease of at least $3.2 million from the previous month.
+- After seeing an increase in both expenses and revenue in November, both expenses and revenue dropped by 99% in December. Advertising costs for the month fell sharply, with a difference of $473,068 at. As a result, revenue totaled only $38,295 a decrease of at least $3.2 million from the previous month.
 - The lowest revenue was recorded in July, at just $24,141. Advertising expenses for that month were also among the lowest, at $4,145.
 
 #### B. Device and Keyword Performance
