@@ -110,7 +110,7 @@ Since it is well known that the amount of the budget spent is closely related to
  
 Based on the graph in Fig. 5, it can be seen that the budget amount can increase as the number and cost of ad bids placed on the Google Ads platform rise. These costs will ultimately influence the number of ad impressions based on the settings of Google’s ad system. The higher the bid, the greater the chance that the ad will appear on users’ search results pages.
 
-![number_of_impressions](https://github.com/CHodes-dev/GoogleAds-Performance-Analysis/blob/main/images/imp_cost_scatterplot.png)
+![number_of_impressions](https://github.com/CHodes-dev/GoogleAds-Performance-Analysis/blob/main/images/imp_cost_scatterplot.png) <br>
 Fig. 5 Graph showing the relationship between the number of ad impressions and cost by month
 
 A higher budget can increase revenue because it can boost the number of ad impressions. Consequently, an increase in ad impressions can lead to an increase in the number of clicks and other metrics as well.
@@ -134,7 +134,7 @@ The performance of each device and keyword is actually very similar; there are n
 ![comparison_metrics_table](https://github.com/CHodes-dev/GoogleAds-Performance-Analysis/blob/main/images/device_keyword_perf_table.png)
 Note: (*) difference between the highest and lowest values
 
-The differences in values across all metrics are less than 3% of the total value and less than $1 for CPC and CPA. In fact, revenue for the device category and keyword usage differ by only 1.3% and 1.7%, respectively—values too small to indicate the best or worst performance. 
+The differences in values across all metrics are less than 3% of the total value and less than $1 for CPC and CPA. In fact, revenue for the device category and keyword usage differ by only 1.3% and 1.7%, respectively, values too small to indicate the best or worst performance. 
  
 However, in this analysis, we will still use the highest and lowest categories to refer to performance values when comparing across dimensions to simplify the analysis. 
  
