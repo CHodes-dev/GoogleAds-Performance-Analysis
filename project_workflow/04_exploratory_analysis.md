@@ -20,7 +20,7 @@ The desired outcome of this exploratory phase is to identify revenue trends gene
 
 - Performance patterns or trends in ad impressions, so we can determine when the company experiences its highest and lowest revenue and how this compares to its costs. The metrics and dimensions used are Cost and Sale_Amount, while the dimension used is Ad_Date. 
 - The device types with the best and worst performance based on the Sale_Amount metric. 
-- The _best-_ and _worst-_performing keywords based on the Sale_Amount metric.
+- The best- and worst-performing keywords based on the Sale_Amount metric.
 
 ### Analysis Result
 
